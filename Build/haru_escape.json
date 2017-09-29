@@ -1,9 +1,0 @@
-{
-"TOTAL_MEMORY": 268435456,
-"dataUrl": "haru_escape.data.unityweb",
-"asmCodeUrl": "haru_escape.asm.code.unityweb",
-"asmMemoryUrl": "haru_escape.asm.memory.unityweb",
-"asmFrameworkUrl": "haru_escape.asm.framework.unityweb",
-"splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
-}

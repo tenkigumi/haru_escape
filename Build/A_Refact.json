@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "A_Refact.data.unityweb",
+"asmCodeUrl": "A_Refact.asm.code.unityweb",
+"asmMemoryUrl": "A_Refact.asm.memory.unityweb",
+"asmFrameworkUrl": "A_Refact.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
